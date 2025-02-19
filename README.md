@@ -1,6 +1,6 @@
 # simplegp
 
-SimpleGP is a module for interfacing with cameras using easy-to-understand and well-documented code using gphoto2 —- the work of Marcus Messner, et al., and Jim Easterbrook, who provide gphoto2 and the gphoto2 bindings (respectively) -- as the underlying engine.
+SimpleGP is a module for interfacing with cameras using easy-to-understand and well-documented code using gphoto2 —- the work of Marcus Meissner, et al., and Jim Easterbrook, who provide [libgphoto2/gphoto2](http://gphoto.org/) and the [gphoto2 bindings](https://github.com/jim-easterbrook/python-gphoto2) (respectively) -- as the underlying engine.
 
 The gphoto2 python module is a fantastic resource. Some coders, however -- especially non-professionals and novices -- may find it difficult to understand, utilize, or implement. SimpleGP will hopefully provide users a faster way to ramp up their projects by using familiar, camera-oriented language and plain english in its naming conventions, and doing the heavy lifting under the hood.
 
