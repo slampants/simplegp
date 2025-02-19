@@ -4,7 +4,7 @@ SimpleGP is a module for interfacing with cameras using easy-to-understand and w
 
 The gphoto2 python module is a fantastic resource. Some coders, however -- especially non-professionals and novices -- may find it difficult to understand, utilize, or implement. SimpleGP will hopefully provide users a faster way to ramp up their projects by using familiar, camera-oriented language and plain english in its naming conventions, and doing the heavy lifting under the hood.
 
-##v1 Functionality Goals
+## v1 Functionality Goals
 - Create a "camera" object that is connected to the physical camera
 - Establish current camera's and lens's possible settings for ISO, Aperture, Shutter Speed, RAW/JPG capture
 - Establish current configuration of aforementioned settings
